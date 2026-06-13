@@ -410,25 +410,6 @@ After completing these 12 parts, you will understand:
 
 ---
 
-# ⭐ Recommended Next Topics
-
-After mastering these notes, continue with:
-
-1. Prompt Engineering
-2. Hugging Face Transformers
-3. Fine-Tuning LLMs
-4. LoRA & QLoRA
-5. PEFT (Parameter-Efficient Fine-Tuning)
-6. Model Quantization
-7. Function Calling & Tool Use
-8. AI Agents
-9. Vector Databases
-10. RAG (Retrieval-Augmented Generation)
-11. MCP (Model Context Protocol)
-12. AI Deployment with FastAPI & Docker
-
----
-
 # 📜 License
 
 This project is intended for educational and interview preparation purposes. Feel free to learn from, adapt, and extend the material for personal use.
